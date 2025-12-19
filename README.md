@@ -1,24 +1,21 @@
-## About me 👋
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negisosu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My main skills
+## 使用技術
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,javascript,typescript,golang,nodejs,react,nextjs,prisma,tailwindcss)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,htmx,react,express,nextjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,vercel,bash,vscode,postman,latex,twitter,discord,gmail,notion)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase,googlecloud,vercel,apple,bash,vscode,postman,latex)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=twitter,discord,gmail,notion)](https://skillicons.dev)
-
-### Have used these a little
+### 触ったことある技術
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,ruby,rails,rust,flask,sqlite,mysql,php,laravel,aws,deno,docker,nginx,wordpress)](https://skillicons.dev)
 
-## My accounts
+## 自分のこと
 
-- X(old Twitter): <https://x.com/negisosu>
-- discord: haetorigusa_
+- 東京都立産業技術高等専門学校　27卒
+- 趣味：Rocket League, デジタルイラスト
+
+## 連絡
+
 - gmail: <negigi0404@gmail.com>
 
