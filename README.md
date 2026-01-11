@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negisosu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 使用技術
 
 [![My Skills](https://skillicons.dev/icons?i=html,htmx,css,javascript,typescript,golang,nodejs,react,nextjs,prisma,tailwindcss)](https://skillicons.dev)
